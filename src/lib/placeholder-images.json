@@ -1,3 +1,52 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "1",
+      "description": "A classic novel about the American dream.",
+      "imageUrl": "https://images.unsplash.com/photo-1551300329-b91a61fa5ebe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx2aW50YWdlJTIwYm9vayUyMGNvdmVyfGVufDB8fHx8MTc2MzQ5NDk0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "vintage book cover"
+    },
+    {
+      "id": "2",
+      "description": "A gripping sci-fi adventure on a distant planet.",
+      "imageUrl": "https://images.unsplash.com/photo-1657969418028-3be399356ad6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzY2ktZmklMjBib29rJTIwY292ZXJ8ZW58MHx8fHwxNzYzNDk0OTQyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sci-fi book cover"
+    },
+    {
+      "id": "3",
+      "description": "A heartwarming story of friendship and discovery.",
+      "imageUrl": "https://images.unsplash.com/photo-1711185900806-bf85e7fe7767?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxmYW50YXN5JTIwYm9vayUyMGNvdmVyfGVufDB8fHx8MTc2MzQ5NDk0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fantasy book cover"
+    },
+    {
+      "id": "4",
+      "description": "A thrilling mystery that will keep you on the edge of your seat.",
+      "imageUrl": "https://images.unsplash.com/photo-1760696473709-a7da66ee87a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxteXN0ZXJ5JTIwYm9vayUyMGNvdmVyfGVufDB8fHx8MTc2MzQ5NDk0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mystery book cover"
+    },
+    {
+      "id": "5",
+      "description": "An epic fantasy saga of heroes and monsters.",
+      "imageUrl": "https://images.unsplash.com/photo-1763194980278-d888773aaa9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxlcGljJTIwZmFudGFzeSUyMGFydHxlbnwwfHx8fDE3NjM0OTQ5NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "epic fantasy art"
+    },
+    {
+      "id": "6",
+      "description": "A practical guide to modern web development.",
+      "imageUrl": "https://images.unsplash.com/photo-1643913398973-f8e24bf6d1c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx0ZWNoJTIwYm9vayUyMGNvdmVyfGVufDB8fHx8MTc2MzQ5NDk0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tech book cover"
+    },
+    {
+      "id": "7",
+      "description": "A poignant historical fiction set during World War II.",
+      "imageUrl": "https://images.unsplash.com/photo-1620821750316-8b19f2a3af01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxoaXN0b3JpY2FsJTIwYm9vayUyMGNvdmVyfGVufDB8fHx8MTc2MzQ5NDk0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "historical book cover"
+    },
+    {
+      "id": "8",
+      "description": "A delightful cookbook full of family recipes.",
+      "imageUrl": "https://images.unsplash.com/photo-1635685731411-7167fe560c79?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjb29rYm9vayUyMGNvdmVyfGVufDB8fHx8MTc2MzQ5NDk0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cookbook cover"
+    }
+  ]
 }
