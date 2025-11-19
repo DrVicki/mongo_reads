@@ -49,4 +49,4 @@ You'll need to run two separate processes in two different terminals: one for th
     npm run dev
     ```
 
-The application will now be available at [http://localhost:9002](http://localhost:9002).
+The application will now be available at [http://localhost:9003](http://localhost:9003).
